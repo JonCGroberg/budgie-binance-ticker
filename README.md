@@ -7,8 +7,7 @@ Shows tickers for cryptocurrencies on the desktop and in the top panel<br/><br/>
 
 # Requirements
 
-  python-binance
-  See install section
+* python-binance
 
 # Install
 
