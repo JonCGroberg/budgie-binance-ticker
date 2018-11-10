@@ -12,7 +12,7 @@ Shows tickers for cryptocurrencies on the desktop and in the top panel<br/><br/>
 # Clone or download the repository
    git clone https://github.com/JonCGroberg/budgie-binanceticker.git
 
-   # Go to the budgie=binanceticker directory (first)
+   # Go to the budgie-binanceticker directory (first)
    cd budgie-binanceticker
 
    # Execute the install script.
