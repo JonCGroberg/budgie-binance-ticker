@@ -5,6 +5,11 @@ Shows tickers for cryptocurrencies on the desktop and in the top panel<br/><br/>
 <img src="https://raw.githubusercontent.com/JonCGroberg/budgie-binanceticker/master/media/desktop.gif"/>
 <img src="https://raw.githubusercontent.com/JonCGroberg/budgie-binanceticker/master/media/topbar.gif"/>
 
+# Customize
+  ticker list is found in src/binanceticker/usertickers.json
+  apikeys set in src/binanceticker/keys.json
+
+
 # Requirements
 
 * python-binance
