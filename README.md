@@ -9,6 +9,9 @@ Shows tickers for cryptocurrencies on the desktop and in the top panel<br/><br/>
 # Install
 
 ```bash
+  #dependency
+  pip install python-binance
+
 # Clone or download the repository
    git clone https://github.com/JonCGroberg/budgie-binanceticker.git
 
