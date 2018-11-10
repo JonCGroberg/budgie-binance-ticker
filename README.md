@@ -8,13 +8,20 @@ Shows tickers for cryptocurrencies on the desktop and in the top panel<br/><br/>
 
 # Install
 
-Place the 'binanceticker' folder in ./local/share/budgie-desktop/plugins/binanceticker (create if necessary)
 ```bash
-# Open terminal and run
-budgie-panel --replace 
+# Clone or download the repository
+   git clone https://github.com/JonCGroberg/budgie-binanceticker.git
+
+   # Go to the budgie-advanced-brightness-controller directory (first)
+   cd budgie-binanceTicker
+
+   # Execute the install script.
+   ./install.sh
+
+   # You can add binanceticker to your panel from Budgie Desktop Settings.
 ```
 Applet should appear in Budgie Desktop Settings  
-<br/><br/> 
+<br/><br/>
 
 ## License
 
