@@ -10,7 +10,7 @@ Shows tickers for cryptocurrencies on the desktop and in the top panel<br/><br/>
 
 Place the 'binanceticker' folder in ./local/share/budgie-desktop/plugins/binanceticker (create if necessary)
 ```bash
-##Open terminal and run
+# Open terminal and run
 budgie-panel --replace 
 ```
 Applet should appear in Budgie Desktop Settings  
