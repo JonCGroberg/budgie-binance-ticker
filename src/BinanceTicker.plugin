@@ -1,0 +1,6 @@
+[Plugin]
+Loader=python3
+Module=binanceticker
+Name=BinanceTicker
+Description=BinanceTicker
+Icon=bitcoin-indicator
